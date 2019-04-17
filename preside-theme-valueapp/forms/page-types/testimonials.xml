@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+	<tab id="main">
+		<fieldset id="main" sortorder="10">
+			<field name="main_image"   deleted="true" />
+			<field name="teaser"       deleted="true" />
+			<field name="main_content" deleted="true" />
+			<field binding="testimonials.addTestimonial" multiple="true" quickadd="true" quickedit="true"/>
+		</fieldset>
+	</tab>
+	<tab id="meta"       deleted="true" />
+	<tab id="dates"      deleted="true" />
+	<tab id="navigation" deleted="true" />
+</form>

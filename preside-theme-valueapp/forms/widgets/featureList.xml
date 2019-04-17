@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="widgets.featureList:">
+	<tab id="default">
+		<fieldset id="default" sortorder="10">
+			<field name="featureIcon" control="textInput" />
+			<field name="featureName" control="textInput" />
+			<field name="featureDescription" control="textarea" />
+		</fieldset>
+	</tab>
+</form>

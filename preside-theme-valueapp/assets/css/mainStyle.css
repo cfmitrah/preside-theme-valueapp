@@ -1,0 +1,24 @@
+body{
+	padding: 0px;
+}
+.icons-top{
+	margin: 0px 115px 0px 0px;
+}
+.nav > li > a:hover{
+	background-color: transparent !important;
+}
+#headerIcon i{
+	margin-right: 3rem !important;
+	font-size: 2em !important;
+	color: #28a745 !important;
+}
+.input-group-btn{
+	left: 400px;
+}
+.emailBox{
+	width:450px;
+	margin-left:110px;
+}
+.checkBox{
+	margin-left:95px !important;
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+	<tab id="main">
+		<fieldset id="main" sortorder="10">
+			<field name="main_image"   deleted="true" />
+			<field name="teaser"       deleted="true" />
+			<field name="main_content" deleted="true" />
+			<field binding="subscription.icon_name"         control="textInput" />
+			<field binding="subscription.subscriptionTitle" control="textInput" />
+			<field binding="subscription.aboutSubscription" control="textArea"  />
+			<field binding="subscription.addFormItem"       control="richEditor" multiple="true" />
+		</fieldset>
+	</tab>
+	<tab id="meta"       deleted="true" />
+	<tab id="dates"      deleted="true" />
+	<tab id="navigation" deleted="true" />
+</form>
