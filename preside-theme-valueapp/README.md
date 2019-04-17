@@ -1,6 +1,6 @@
 # PresideCMS Extension: Value App Preside Theme
 
-![addDetails](screens/HomePage.png)
+![addDetails](screens/homepage.png)
 
 This is a free Preside CMS Theme. You can use this theme for your website or use it as a reference for developing a Preside theme. The theme will show you the basic concept of Preside CMS, how to create objects, how to overwrite templates and etc. It's really a good starter template for the beginners.
 
@@ -15,7 +15,7 @@ Install the extension to your application via either of the methods detailed bel
 
 The extension is a free Preside Theme, once this installed you can now have a freedom to configure the template same as you see on this link https://bootsnipp.com/fullscreen/35jBD. The theme has a different available widgets for you to customize the website, feature list and service list. Also, You can configure everything on the template from text on the logo to footer links and social media icons, you can do that via Preside Global Settings.
 
-	widgets
+	widgets:
 	=======
 		- Feature list 		: Used for adding features like feature icon, name and description.
 		- Service list 		: Used to add the services same as features details like service icon, name and description.
