@@ -56,10 +56,10 @@ Also user can make use of Preside's form builder, It will get rendered in user s
 
 From the root of your application, type the following command:
 
-	git submodule add https://github.com/MitrahSoft/preside-theme-valueapp.git application/extensions/preside-theme-valueapp
+	git submodule add https://github.com/cfmitrah/preside-theme-valueapp.git application/extensions/preside-theme-valueapp
 
 ### CommandBox (box.json) method
 
 From the extension folder of your application, type the following command:
 
-    box install MitrahSoft/preside-theme-valueapp
+    box install cfmitrah/preside-theme-valueapp
